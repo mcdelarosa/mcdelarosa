@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcdelarosa
 - 👀 I’m interested in robotics, science and programming
-- 🌱 I’m currently learning JS, HTML, Python
+- 🌱 I’m currently learning JS, Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me in github
